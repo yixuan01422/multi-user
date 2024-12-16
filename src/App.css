@@ -1,3 +1,6 @@
+@import 'tailwindcss/tailwind.css';
+@import 'flowbite';
+
 .App {
   text-align: center;
 }
